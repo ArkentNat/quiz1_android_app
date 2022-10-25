@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Quiz1_Test" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <!-- Notification Bar Color. -->
+        <item name="colorPrimaryDark">@color/primaryBlue</item>
+    </style>
+</resources>
